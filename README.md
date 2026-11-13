@@ -1,3 +1,5 @@
+<img src="art/knowble-banner.png" alt="Knowble: a help centre and contact support for Filament panels">
+
 # Knowble support
 
 Questions, bug reports and ideas for [Knowble](https://www.knowble.co.nz), the help centre and contact support plugin for Filament panels. Knowble's code is
